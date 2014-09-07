@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hansreich25@gmail.com",
+    "longName": "FootballRefWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Referee",
+    "uuid": "0a422208-110c-4cdb-aed2-e0e6e0909244",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
